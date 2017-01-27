@@ -2,7 +2,7 @@ body{
   background-repeat:no-repeat;
   background-size: cover;
 }
-.mylinks{
+a{
   color: #000000;
   font-size: 28px;
   margin-left: 75%;
