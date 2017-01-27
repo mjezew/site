@@ -1,5 +1,10 @@
 body{
   background-repeat:no-repeat;
   background-size: cover;
-  color: #fff;
+}
+.mylinks{
+  color: #000000;
+  font-size: 18px;
+  margin-left: 75%;
+  margin-top: 75%;
 }
